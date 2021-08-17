@@ -12,4 +12,4 @@ Git commands we have learnt till now :-
 6.  git add file1.css file2.html file3.txt  ==> to add specific files to staging area 
 7.  git commit -m "you commit message"  ==>  to commit the changes
 
-wooohooooo
+wooohooooo I've finalyl changed the hello.txt file now and now let us see the changes using the command git status.
