@@ -1,7 +1,6 @@
 My name is Piyush Khurana.
 
-Let's add some new changes to this fuckin file today 
-because we're fuckin' shelby's
+Let's add some new changes to this file today 
 
 Git commands we have learnt till now :- 
 1.  git init ==> to initialize git in a floder
@@ -12,4 +11,3 @@ Git commands we have learnt till now :-
 6.  git add file1.css file2.html file3.txt  ==> to add specific files to staging area 
 7.  git commit -m "you commit message"  ==>  to commit the changes
 
-wooohooooo I've finalyl changed the hello.txt file now and now let us see the changes using the command git status.
